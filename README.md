@@ -18,3 +18,6 @@
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen)](https://yourwebsite.com)
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20Azzam's%20Profile!&fontSize=30&animation=fadeIn)
