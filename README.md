@@ -1,3 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20Azzam's%20Profile!&fontSize=30&animation=fadeIn)
+
+
+
+
 # Hi there, I'm Azzam 👋
 
 ### 🚀 About Me
@@ -88,8 +93,3 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-
-
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20Azzam's%20Profile!&fontSize=30&animation=fadeIn)
