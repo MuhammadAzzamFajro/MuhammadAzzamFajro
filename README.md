@@ -6,8 +6,8 @@
 # Hi there, I'm Azzam 👋
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **React, Next.js,python and Laravel**
-- 💬 Ask me about **web development & AI integration**
+- 🌱 I’m currently learning **DevOps and Linux**
+- 💬 Ask me about **Anything**
 - ⚡ Fun fact: I love football, motogp, F1 and film!
 
 ---
